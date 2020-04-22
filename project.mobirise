@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Meet Me After",
-    "currentPage": "search.html",
+    "currentPage": "frankjbarger.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2726,7 +2726,8 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Frank Barger",
-        "order": 6
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-2-1280x1920.jpeg"
       },
       "components": [
         {
